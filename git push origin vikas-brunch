@@ -1,0 +1,84 @@
+[33mcommit a25838ee1ac69308ecb9d9854d95f20afdbeab45[m[33m ([m[1;36mHEAD -> [m[1;32mvikas-branch[m[33m)[m
+Author: vikap.200687 <vikap.87@mail.ru>
+Date:   Sat Sep 18 19:39:17 2021 +0300
+
+    Inital changes
+
+[33mcommit c95c2a39e7e208676b25f3d60f0845a24aefcc59[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: ad2bc09 6a91cf9
+Author: ListDreva <90109306+ListDreva@users.noreply.github.com>
+Date:   Wed Sep 8 00:06:06 2021 +0300
+
+    Merge pull request #4 from rayatarasova/Test
+    
+    Готово
+
+[33mcommit 6a91cf9da830654dcffed023f4157c70e874c6a7[m[33m ([m[1;31morigin/Test[m[33m)[m
+Author: ListDreva <tou.vim@gmail.com>
+Date:   Tue Sep 7 23:17:47 2021 +0300
+
+    Готово
+
+[33mcommit ad2bc09151d853dd953d23662da1c8129c0a8ba4[m
+Merge: 3b53d25 77c5f57
+Author: Raisa <raya.tarasova@gmail.com>
+Date:   Sun Sep 5 11:16:45 2021 +0300
+
+    Merge pull request #3 from rayatarasova/kurdakova
+    
+    Added "Hello, world!=)"
+
+[33mcommit 77c5f570ac927a507b0ca48b13125a33e43a545a[m[33m ([m[1;31morigin/kurdakova[m[33m)[m
+Merge: a79525d 3b53d25
+Author: Raisa <raya.tarasova@gmail.com>
+Date:   Sun Sep 5 11:16:20 2021 +0300
+
+    Merge branch 'main' into kurdakova
+
+[33mcommit 3b53d258aaf1da93f557c9ac6a56f857d3a5a5c8[m
+Merge: bd4efaf 22e531f
+Author: Raisa <raya.tarasova@gmail.com>
+Date:   Sun Sep 5 11:14:29 2021 +0300
+
+    Merge pull request #2 from rayatarasova/tbase-21082021
+    
+    Add new string in readme.md Andrey S
+
+[33mcommit bd4efaf7c1597a0f2abf9a9798f90941eb1f98ef[m
+Merge: 5a179d3 21d8549
+Author: Raisa <raya.tarasova@gmail.com>
+Date:   Sun Sep 5 11:13:16 2021 +0300
+
+    Merge pull request #1 from rayatarasova/test-branch
+    
+    Раиса
+
+[33mcommit a79525d14a40a0a9c7cb95d4098ba78f02310e1d[m
+Author: Elena Kurdakova <aqvialet@gmail.com>
+Date:   Sat Sep 4 22:54:06 2021 +0300
+
+    Added "Hello, world!=)"
+
+[33mcommit 21d8549eb0caece8ffa878c8bd5939a658f2825d[m[33m ([m[1;31morigin/test-branch[m[33m)[m
+Author: Raisa Tarasova <raisatarasova@MacBook-Pro-Raisa.local>
+Date:   Sat Sep 4 21:19:56 2021 +0300
+
+    test
+
+[33mcommit 22e531f0ef78bc39c72c9980e0193d58356d4c20[m[33m ([m[1;31morigin/tbase-21082021[m[33m)[m
+Author: unknown <spamfordel@mail.ru>
+Date:   Sat Sep 4 20:38:27 2021 +0300
+
+    Add new string in readme.md Andrey S
+
+[33mcommit f38d73224881134c2c7b28b5fb55eb0047f10505[m
+Author: Raisa Tarasova <raisatarasova@MacBook-Pro-Raisa.local>
+Date:   Sat Sep 4 13:38:17 2021 +0300
+
+    Inital changes
+
+[33mcommit 5a179d31693d89730a0b0c7e918ad40d50a99a22[m
+Author: Raisa <raya.tarasova@gmail.com>
+Date:   Sat Sep 4 13:31:44 2021 +0300
+
+    Initial commit
